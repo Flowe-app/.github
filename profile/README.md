@@ -322,7 +322,7 @@ Payments:   RevenueCat (cross-platform subscriptions)
 
 ## 📞 Contact
 
-**Email**: [support@floweapp.com](mailto:support@floweapp.com)
+**Email**: [supportflowe@usefloweapp.com](mailto:support@floweapp.com)
 
 ---
 
