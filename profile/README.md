@@ -12,8 +12,6 @@
 ![Android](https://img.shields.io/badge/Android-Coming%20Soon-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![ADHD Friendly](https://img.shields.io/badge/ADHD-Friendly-7BAE7F?style=flat-square)
 
-**Productivity designed for ADHD minds**
-
 ---
 
 ## 📋 Product Overview
