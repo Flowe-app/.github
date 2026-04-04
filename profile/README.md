@@ -1,7 +1,7 @@
 <img width="2000" height="500" alt="flowe-banner" src="https://github.com/user-attachments/assets/515de2d1-4377-4528-a4bb-266b7a664aa6" />
 
 
-# FLOWĒ
+# FLOWĒ App
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.10%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)
